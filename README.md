@@ -1,5 +1,7 @@
 # Ejemplo basico de CI/CD en un aplicacion JAX-RS
 
+Se generara un desplegable tipo jar
+
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
 If you want to learn more about Quarkus, please visit its website: https://quarkus.io/ .
