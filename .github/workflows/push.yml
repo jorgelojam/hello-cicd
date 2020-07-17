@@ -3,7 +3,7 @@ on: push
 
 jobs:
   build:
-    name: build jar
+    name: compilar y empaquetar
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
