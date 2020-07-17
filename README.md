@@ -1,4 +1,4 @@
-# hello-cicd project
+# Ejemplo basico de CI/CD en un aplicacion JAX-RS
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
