@@ -11,4 +11,4 @@ jobs:
       with:
           java-version: 1.8
     - name: compilar con maven
-      run: mvn package --file pom.xml
+      run: mvn -B package --file pom.xml
